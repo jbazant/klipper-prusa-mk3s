@@ -21,7 +21,7 @@ Structured Klipper config for Prusa MK3s/MK3s+ 3D printer, inspired by https://g
 ```yml
 [update_manager prusa]
 type: git_repo
-origin: https://github.com/dz0ny/klipper-prusa-mk3s.git
+origin: https://github.com/jbazant/klipper-prusa-mk3s.git
 path: ~/printer_data/config/klipper-prusa-mk3s
 primary_branch: main
 is_system_service: False
